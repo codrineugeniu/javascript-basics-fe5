@@ -1,2 +1,2 @@
 # javascript-basics-fe5
- Basic javascript repository
+ Basic javascript repository for FE5 
