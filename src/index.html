@@ -9,5 +9,12 @@
     <div id="main">
       Some test text for workshop
     </div>
+    <button onclick="changeText()">Change text</button>
+    <script>
+      function changeText() {
+        document.getElementById('main').innerHTML =
+          '<h1>This was changed with Javascript💥</h1>'
+      }
+    </script>
   </body>
 </html>
